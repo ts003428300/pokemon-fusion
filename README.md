@@ -19,8 +19,8 @@ A web application that allows you to fuse Generation 1 Pokemon using Google's Ge
 
 1.  **Clone the repository**
     ```bash
-    git clone <your-repo-url>
-    cd pokemon
+    git clone https://github.com/ts003428300/pokemon-fusion.git
+    cd pokemon-fusion
     ```
 
 2.  **Start Backend**
@@ -59,8 +59,8 @@ A web application that allows you to fuse Generation 1 Pokemon using Google's Ge
 
 1.  **下載專案**
     ```bash
-    git clone <your-repo-url>
-    cd pokemon
+    git clone https://github.com/ts003428300/pokemon-fusion.git
+    cd pokemon-fusion
     ```
 
 2.  **啟動後端**
